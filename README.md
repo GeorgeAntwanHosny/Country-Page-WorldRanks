@@ -28,4 +28,4 @@
 
 - #### The country list is paginated
 
-- #### Deploy the solution [Demo URL]().
+- #### Deploy the solution [Demo URL](https://country-world-ranks-by-georgeantwan.vercel.app/).
